@@ -6,14 +6,30 @@
 This project applies machine learning techniques to perform temporal analysis on air quality datasets for Beijing. The goal is to predict pollutants in the future and Air Quality Health Index (AQHI) using different methods from simple regressors to Bi-LSTM and GRU. This README provides a general overview of the project, instructions on how to set up, train, and evaluate the models, and guidance on the organization of the codebase.
 
 ## Description of Folder Structure:
-I. Initial Exploratory Data Analysis (EDA): This file documents all the initial exploratory data analysis conducted on the dataset.
-II. Feature Engineering and Simple Models: This file includes the feature engineering process applied to generate a new dataset used for evaluating simple models. It also houses the implementation of simple models on the dataset.
-III. RNN and LSTM (Complex Models): Due to its size, this file cannot be added directly to GitHub. You can access it via Google Colab using (https://drive.google.com/file/d/1USu-qstOnkWqO2Zn2pL-IJ2GQD8SDmD0/view?usp=sharing).
-IV. Bi-LSTM and GRU (Complex Models): Similar to the RNN and LSTM file, this one cannot be added directly to GitHub due to size limitations. You can access it through Google Colab using (https://drive.google.com/file/d/1vPWtkZsJg-CmKTJ7xh7f-Oan3JoKyNsK/view?usp=sharing).
-V. Model Cards: Two model cards are available—one for the best simple model and the other for the best complex model. You can find them in the Model Cards Folder.
-VI. Best Model Folder: This folder contains two files—one for the best simple model and the other for the best complex model.
-VII. Dataset Folder: Contains the initial dataset used in the project.
+I. Initial Exploratory Data Analysis (EDA): 
+   This file documents all the initial exploratory data analysis conducted on the dataset.
 
+II. Feature Engineering and Simple Models: 
+   This file includes the feature engineering process applied to generate a new dataset used for evaluating simple models. It also houses the implementation of simple models on the dataset.
+
+III. RNN and LSTM (Complex Models): 
+   Due to its size, this file cannot be added directly to GitHub. You can access it via Google Colab using (https://drive.google.com/file/d/1USu-qstOnkWqO2Zn2pL-IJ2GQD8SDmD0/view?usp=sharing).
+
+IV. Bi-LSTM and GRU (Complex Models): 
+   Similar to the RNN and LSTM file, this one cannot be added directly to GitHub due to size limitations. You can access it through Google Colab using (https://drive.google.com/file/d/1vPWtkZsJg-CmKTJ7xh7f-Oan3JoKyNsK/view?usp=sharing).
+
+V. Model Cards: 
+   Two model cards are available—one for the best simple model and the other for the best complex model. You can find them in the Model Cards Folder.
+
+VI. Best Model Folder: 
+   This folder contains two files—one for the best simple model and the other for the best complex model.
+
+VII. Dataset Folder: 
+   Contains the initial dataset used in the project.
+
+
+## Instruction
+To run the models, navigate to the Best Models folder and follow the instructions provided in the notebook files.
 
 ## Project Outline:
 I. Initial EDA  
