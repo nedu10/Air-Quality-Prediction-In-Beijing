@@ -24,6 +24,11 @@
 ## Training and Evaluation
 
 - **Training Procedure:** Model trained using historical air quality data from Beijing (e.g., hourly measurements, Lag Values, Rolling Features, Seasonnal Features etc) with backward elimination to remove non-significant features. Training environment includes Python with libraries like pandas, scikit-learn, and statsmodels.
+- **Training Dataset:** After feature engineering and time series component extraction (rolling, lag and past features). Resulting dataset was saved to a drive for ease of model evaluation.
+X_train: https://drive.google.com/file/d/1g-WchMrKqXkk8P9yY7Qk1v4MnMg5zXHo/view?usp=drive_link
+Y_train: https://drive.google.com/file/d/1uCkugZ30YCAL3CyEj4vLRyR4KU-WH7dj/view?usp=drive_link
+X_test: https://drive.google.com/file/d/1yU6uCm8YYGd6ok_Ox0O8TwLLzxdshOPQ/view?usp=drive_link
+Y_test: https://drive.google.com/file/d/1dOm6vCVqncJUnPGvhlU6tlrt3GnVA4SK/view?usp=drive_link
 - **Evaluation Metrics:** Mean Absolute Error (MAE), Root Mean Squared Error (RMSE) for model evaluation on test datasets.
 - **Baseline Comparison:** More complex models (e.g., RNN) for accuracy and computational efficiency.
 
@@ -40,8 +45,8 @@
 
 ## Additional Information
 
-- **References:** [List of references to research papers, datasets, and relevant documentation]
-- **License:** [License information for model usage and redistribution]
+- **References:** https://www.kaggle.com/code/alibulut1/predict-pollution-of-beijing-with-regression-model
+- **License:** MEC E 788 (Applied Machine Learning)
 - **Contact Information:** cifedior@ualberta.ca
 
 
