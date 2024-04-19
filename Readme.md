@@ -31,6 +31,9 @@ VII. Dataset Folder:
 ## Instruction
 To run the models, navigate to the Best Models folder and follow the instructions provided in the notebook files.
 
+## Presentation Link
+https://docs.google.com/presentation/d/1TCLdlWkUDi0XjnbuLb0qPkDF8-Bdzf6H1j4zBJ2O2lk/edit#slide=id.g2c9859f9ed5_0_103
+
 ## Project Outline:
 I. Initial EDA  
 II. Simple Models  
