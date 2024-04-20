@@ -7,10 +7,13 @@
 The system pulls data from various sources, including historical datasets on air quality, meteorological conditions, and geographical information. These datasets are preprocessed to extract relevant features and ensure data quality before being fed into the models.
 
 #### Best Model Architecture:
-
+![Python Logo](images/image.png)
 
 #### Model Evaluation:
 After training, the models are evaluated using metrics such as root mean square error (RMSE), mean absolute error (MAE), and R-squared (R2) to assess their performance in predicting air quality parameters and Air Quality Health Index (AQHI).
+
+#### Model Deployment (End user):
+![Python Logo](images/Applications.png)
 
 ### Next Steps:
 
