@@ -13,7 +13,7 @@ The system pulls data from various sources, including historical datasets on air
 After training, the models are evaluated using metrics such as root mean square error (RMSE), mean absolute error (MAE), and R-squared (R2) to assess their performance in predicting air quality parameters and Air Quality Health Index (AQHI).
 
 #### Model Deployment (End user):
-![Python Logo](images/Applications.png)
+![Python Logo](images/Application.png)
 
 ### Next Steps:
 
